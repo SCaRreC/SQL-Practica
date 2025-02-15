@@ -1,3 +1,5 @@
+--3. Create table ivr_detail from 3 tables imported from .csv files
+
 create table keepcoding.ivr_detail as (
   select 
     cal.ivr_id as calls_ivr_id,

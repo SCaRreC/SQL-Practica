@@ -1,3 +1,5 @@
+-- exercise 2. Create code to create the database designed previously.
+
 -- Crear tabla Teachers
 create table teachers (
     teacher_id serial primary key not null,
