@@ -13,34 +13,34 @@ Desarrollar un script para crear las tablas y las restricciones necesarias segú
 diagrama entregado en el punto anterior.
 El script debe poder ejecutarse en PostgreSQL.
 Se debe entregar un fichero con el código solicitado y extensión .sql
-(2._DataBase_creation_keepcoding.sql)
+[(2._DataBase_creation_keepcoding.sql)](https://github.com/SCaRreC/SQL-Practica/blob/main/2._DataBase_creation_keepcoding.sql)
 
 3. CREAR TABLA DE ivr_detail.
-3._Create_ivr_detail_table.sql
+[3._Create_ivr_detail_table.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/3._Create_ivr_detail_table.sql)
 
 4. Generar el campo vdn_aggregation
-4._vdn_aggregation.sql
+[4._vdn_aggregation.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/4._vdn_aggregation.sql)
 
 5. Generar los campos document_type y document_identification
-5._document_type_and_document_type.sql
+[5._document_type_and_document_type.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/5._document_type_and_document_type.sql)
 
 6. Generar el campo customer_phone
-6._customer_phone.sql
+[6._customer_phone.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/6._customer_phone.sql)
 
 7. Generar el campo billing_account_id
-7._billing_account_id.sql
+[7._billing_account_id.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/7._billing_account_id.sql)
 
 8. Generar el campo masiva_lg
-8._masiva_lg.sql
+[8._masiva_lg.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/8._masiva_lg.sql)
 
 9. Generar el campo info_by_phone_lg
-9._info_by_phone_lg.sql
+[9._info_by_phone_lg.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/9._info_by_phone_lg.sql)
 
 10. Generar el campo info_by_dni_lg
-10._info_by_dni_lg.sql
+[10._info_by_dni_lg.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/10._info_by_dni_lg.sql)
 
 11. Generar los campos repeated_phone_24H, cause_recall_phone_24H
-11._repeated_phone_24H_and_cause_recall_phone_24H.sql
+[11._repeated_phone_24H_and_cause_recall_phone_24H.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/11._repeated_phone_24H_and_cause_recall_phone_24H.sql)
 
 12. CREAR TABLA DE ivr_summary (Para nota)
-12._Create_table_ivr_summary.sql
+[12._Create_table_ivr_summary.sql](https://github.com/SCaRreC/SQL-Practica/blob/main/12._Create_table_ivr_summary.sql)
