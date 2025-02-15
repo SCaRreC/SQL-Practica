@@ -6,14 +6,14 @@ Realizar el diagrama entidad relación con el que poder modelar una base de
 datos para Keepcoding, es decir, recogiendo datos de alumnos, bootcamps,
 módulos, profesores...
 Se debe entregar un pdf con el diagrama y una pequeña explicación de este.
-1._diagrama_keepcoding_Sara_Carcamo.pdf
+[1._diagrama_keepcoding_Sara_Carcamo.pdf](https://github.com/SCaRreC/SQL-Practica/blob/main/1._diagrama_keepcoding_Sara_Carcamo.pdf)
 
 2. CREACIÓN DE BASE DE DATOS
 Desarrollar un script para crear las tablas y las restricciones necesarias según el
 diagrama entregado en el punto anterior.
 El script debe poder ejecutarse en PostgreSQL.
 Se debe entregar un fichero con el código solicitado y extensión .sql
-2._DataBase_creation_keepcoding.sql
+(2._DataBase_creation_keepcoding.sql)
 
 3. CREAR TABLA DE ivr_detail.
 3._Create_ivr_detail_table.sql
